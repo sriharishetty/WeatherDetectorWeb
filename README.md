@@ -20,4 +20,4 @@ Contributing:
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 Feedback and Contact:
-Have questions or feedback? Reach out via [email/LinkedIn/other contact info].
+Have questions or feedback? Reach out via [www.linkedin.com/in/sriharigangisetti].
