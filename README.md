@@ -1,4 +1,4 @@
-# weather-web-app
+# Weather Detector Web
 simple web application to check the current weather state
 
 Welcome to the Climate Detector project repository! This web application is designed to provide real-time climate data and trends using front-end technologies. It leverages APIs to fetch and display information such as temperature, humidity, and weather forecasts in an intuitive and user-friendly interface.
