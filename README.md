@@ -21,3 +21,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 Feedback and Contact:
 Have questions or feedback? Reach out via [www.linkedin.com/in/sriharigangisetti].
+
+![WeatherWeb](Weather.png)
